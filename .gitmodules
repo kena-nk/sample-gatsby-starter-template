@@ -1,0 +1,3 @@
+[submodule "sample-design-token"]
+	path = sample-design-token
+	url = git@github.com:kena-nk/sample-design-token.git
